@@ -1,0 +1,73 @@
+body{
+    color: #333333;
+    font-family:"Lucida Sans Unicode","Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;           
+}
+h1 {
+    font-family: serif;
+    background-image:url(../img/sobre-background.jpg)
+}
+h2{
+    border-bottom: 2px solid #ff0000;
+}
+p {
+    font-family: monospace;
+    line-height: 16px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    text-indent: 30px;
+}
+figure {
+    background-color: #e1ebdf;
+    border: 10px groove #ccc;
+    text-align: center;
+}
+figcaption {
+    font-family: italic;
+}
+p{
+    padding: 30px  5px  12px 0;
+   
+}
+p{
+     color:#00ff62
+}
+#cabecalho {
+    color: rgb(69, 191, 228);
+    text-align: center;
+}
+#rodape{
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 700px;
+    color: #00c3ff;
+    margin: 60px;
+    padding: 110px;
+}
+#centrodedistribuicao{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+} 
+#rodape img{
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 500px;
+}
+#familia-pelho{
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+
+@font-face{
+    font-family: "myfirtsFont";
+    src: url("minhafonte.ttf");
+}
+
+    
+   
+    
+   
