@@ -1,0 +1,27 @@
+body {
+   background-color: aqua;
+}
+
+.button svg {
+    display: block;
+    fill: none;
+    stroke-width: var(--sw, 3px);
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.button .circle{
+    width: 76px;
+    height: 76px;
+    transform:rotate(-90deg) ;
+}
+
+.button .ícon {
+    --sw: 2px;
+    width: 24px;
+    height: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -20px 0 0 -12px; 
+}
