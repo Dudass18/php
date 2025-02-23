@@ -11,7 +11,21 @@
 </head>
 
 <body>
+    
+    <?php
+        // código PHP a qui
+    ?>
 
+    <h1>HTML a qui</h1>
+    <?php
+       // código PHP a qui
+    ?>
+    <p>Mais html</p>
+    <?php
+    print date('y');
+    ?>
+
+  
     <img src="./img/logo.png">
 
     <h1>
