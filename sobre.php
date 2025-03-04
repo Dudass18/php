@@ -21,8 +21,17 @@
        // código PHP a qui
     ?>
     <p>Mais html</p>
+
     <?php
     print date('y');
+    ?>
+
+    Fundada há <?php print date("y"); ?> anos,...
+
+    Fundada há <?php print date ("y") - 1932; ?> anos,...
+
+    <?php
+        include("cabecalho.php");
     ?>
 
   

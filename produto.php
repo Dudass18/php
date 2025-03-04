@@ -5,8 +5,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width">
     <title>Mirror Fashion</title>
+    
     <link rel="stylesheet" href="css/reset.css" />
     <link rel="stylesheet" href="css/estilos.css" />
+    <link rel="stylesheet" href="css/mobile.css" media="(max-width: 939px)">
+
+
     <link rel="stylesheet" href="css/produto.css">
     <link rel="stylesheet" href="css/bootstrap.css">
 
@@ -14,6 +18,15 @@
 
 
 <body>
+
+    <?php 
+        $cabecalho_title = "produto da Mirror Fashion";
+        include("cabecalho.php");
+    ?> 
+
+
+    <?php include("cabecalho.php"); ?>
+    
 
     <div class="jumbotron-fluid">
         <div class="container">
@@ -190,6 +203,13 @@
     </footer>
 
     <script type="text/javascript" src="js/produto.js"></script>
+
+
+    <?php include("cabecalho.php"); ?>
+
+    <!-- Aqui vai vir o miolo da nossa página depois! -->
+
+    <?php include("rodape.php"); ?>
 
 
 </body>
