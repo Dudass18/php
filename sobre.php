@@ -1,16 +1,16 @@
-<!DOCTYPE html>
-<html>
+<!-- <!DOCTYPE html>
+<html> -->
 
-<head>
+<!-- <head> -->
     <meta charset="utf-8">
     <title>Sobre a mirror Fashion</title>
     <link rel="stylesheet" href="./css/sobre.css">
     <style>
 
     </style>
-</head>
+<!-- </head> -->
 
-<body>
+<!-- <body> -->
     
     <?php
         // código PHP a qui
@@ -134,6 +134,6 @@
         &copy;copyright Mirror Fashion
     </div>
 
-</body>
+<!-- </body> -->
 
-</html>
+<!-- </html> -->

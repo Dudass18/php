@@ -7,4 +7,4 @@
         <li><a href="http://plus.google.com/mirrorfashion">google</a></li>
       </ul>
     </div>
-  </footer>
+</footer>

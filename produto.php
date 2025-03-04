@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
+<!-- <!DOCTYPE html>
+<html> -->
 
-<head>
+<!-- <head> -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width">
     <title>Mirror Fashion</title>
@@ -14,10 +14,10 @@
     <link rel="stylesheet" href="css/produto.css">
     <link rel="stylesheet" href="css/bootstrap.css">
 
-</head>
+<!-- </head> -->
 
 
-<body>
+<!-- <body> -->
 
     <?php 
         $cabecalho_title = "produto da Mirror Fashion";
@@ -212,10 +212,10 @@
     <?php include("rodape.php"); ?>
 
 
-</body>
+<!-- </body> -->
 
 
 
 
 
-</html>
+<!-- </html> -->
