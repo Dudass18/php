@@ -19,6 +19,8 @@
 
 <!-- <body> -->
 
+    <?php $cabecalho_css = '<link rel="stylesheet" href="css/produto.css"' 
+
     <?php 
         $cabecalho_title = "produto da Mirror Fashion";
         include("cabecalho.php");

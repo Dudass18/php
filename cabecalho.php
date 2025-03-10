@@ -17,6 +17,9 @@
 <body>
 
 <header class="container">
+
+    <title><?php print $cabecalho-print; ?></title>
+
     <!-- conteúdo do header aqui -->
     <!--   Conteúdo do cabeçalhoooo -->
     <h1><img src="img/logo.png" alt="Logo da Mirror Fashion"></h1>
