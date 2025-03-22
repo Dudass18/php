@@ -1,62 +1,9 @@
-<!-- <!DOCTYPE html>
-<html> -->
-
-<!-- <head> -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width">
-    <title>Mirror Fashion</title>
-    
-    <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/estilos.css" />
-    <link rel="stylesheet" href="css/mobile.css" media="(max-width: 939px)">
-
-
-    <link rel="stylesheet" href="css/produto.css">
-    <link rel="stylesheet" href="css/bootstrap.css">
-
-<!-- </head> -->
-
-
-<!-- <body> -->
-
-    <?php $cabecalho_css = '<link rel="stylesheet" href="css/produto.css"' 
-
     <?php 
+        $cabecalho_css = '<link rel="stylesheet" href="css/produto.css">';
         $cabecalho_title = "produto da Mirror Fashion";
         include("cabecalho.php");
     ?> 
-
-
-    <?php include("cabecalho.php"); ?>
-    
-
-    <div class="jumbotron-fluid">
-        <div class="container">
-            <h1 class="display-4">Ótima escolha!</h1>
-            <p class="lead">Obrigado por comprar na Mirror Fashion.</p>
-        </div>
-    </div>
-
-    <header class="container">
-        <h1>
-            <img src="img/logo.png" alt="Logo da Mirror Fashion">
-        </h1>
-
-        <p class="sacola">
-            Nenhum item na sacola de compras
-        </p>
-
-        <nav class="menu-opcoes">
-            <ul>
-                <li><a href="#">Sua conta</a></li>
-                <li><a href="#">Lista de desejos</a></li>
-                <li><a href="#">Cartão Fidelidade</a></li>
-                <li><a href="sobre.html">Sobre</a></li>
-                <li><a href="#">Ajuda</a></li>
-            </ul>
-        </nav>
-    </header>
-    <div class="produto-back">
+        <div class="produto-back">
         <div class="container">
             <div class="produto">
                 <form>
@@ -192,32 +139,8 @@
     </div>
 
 
-    <footer>
-        <div class="container">
-            <img src="img/logo-rodape.png" alt="Logo da mirrorfashion">
-
-            <ul class="social">
-                <li><a href="http://facebook.com/mirrorfashion">facebook</a></li>
-                <li><a href="http://twitter.com/mirrorfashion">twitter</a></li>
-                <li><a href="http://plus.google.com/mirrorfashion">google</a></li>
-            </ul>
-        </div>
-    </footer>
-
     <script type="text/javascript" src="js/produto.js"></script>
-
-
-    <?php include("cabecalho.php"); ?>
 
     <!-- Aqui vai vir o miolo da nossa página depois! -->
 
-    <?php include("rodape.php"); ?>
-
-
-<!-- </body> -->
-
-
-
-
-
-<!-- </html> -->
+    <?php include("rodape.php"); ?> 

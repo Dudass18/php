@@ -4,12 +4,14 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Mirror Fashion</tiltle>
+  
+  <title><?php print $cabecalho_title; ?></title>
   
   <link rel="stylesheet" href="css/reset.css"/>
   <link rel="stylesheet" href="css/estilos.css" />
   <link rel="stylesheet" href="css/mobile.css" media="(max-width: 939px)"/> 
   
+  <?php	print $cabecalho_css;	?>
   <meta name="viewport" content="width=device-width">
 
 </head>
@@ -18,7 +20,6 @@
 
 <header class="container">
 
-    <title><?php print $cabecalho-print; ?></title>
 
     <!-- conteúdo do header aqui -->
     <!--   Conteúdo do cabeçalhoooo -->
@@ -35,10 +36,3 @@
       </ul>
     </nav>
 </header>
-
-
-
-</body>
-  
-  
-</html>
