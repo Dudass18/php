@@ -6,7 +6,7 @@
         <div class="produto-back">
         <div class="container">
             <div class="produto">
-                <form>
+                <form action="checkout.php" method="POST">
                     <fieldset class="cores">
                         <legend>Escolha a cor:</legend>
 

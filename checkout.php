@@ -86,7 +86,7 @@
                             <dd>Fuzz Cardigan</dd>
 
                             <dt>Cor</dt>
-                            <dd>Verde</dd>
+                            <dd><?=	$_POST['cor']?></dd>
 
                             <dt>tamanho</dt>
                             <dd>40</dd>
