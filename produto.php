@@ -1,4 +1,4 @@
-    <?php 
+<?php 
         $cabecalho_css = '<link rel="stylesheet" href="css/produto.css">';
         $cabecalho_title = "produto da Mirror Fashion";
         include("cabecalho.php");
@@ -7,6 +7,10 @@
         <div class="container">
             <div class="produto">
                 <form action="checkout.php" method="POST">
+
+                <input type="hidden" name="nome" value="Fuzzy Cardigan">
+                <input type="hidden" name="preco" value="129,00">
+
                     <fieldset class="cores">
                         <legend>Escolha a cor:</legend>
 
