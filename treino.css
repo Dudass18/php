@@ -1,0 +1,9 @@
+body {
+  background-color: aqua;
+}
+.lembrando {
+    text-align: center;
+    margin: 8em;
+    border-color: black;
+    border: 20px solid black;
+}
