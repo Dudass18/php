@@ -1,9 +1,19 @@
 body {
-  background-color: aqua;
+  background-color: rgb(238, 157, 238);
+}
+.conteiner{
+  margin:-15px 0 0 300px;
 }
 .lembrando {
+    background-color: rgb(190, 190, 190);
     text-align: center;
     margin: 8em;
-    border-color: black;
-    border: 20px solid black;
+    border-color: rgb(0, 0, 0);
+    border: 5px double rgb(240, 22, 22);
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+}
+.tentando {
+  color: rgb(0, 0, 0);
 }
