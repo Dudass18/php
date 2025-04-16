@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(238, 157, 238);
+}
+.conteiner{
+ 
+  margin:-15px 0 0 130px;
+}
+.Lembrando {
+    background-color: rgb(196, 193, 193);
+    text-align: center;
+    margin:7em;
+    border-color: rgb(0, 0, 0);
+    border: 5px double rgb(209, 19, 226) ;
+    border-radius: 5px;
+    width: 800px;
+    height: 350px;
+    padding: 30px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    
+}
+.Tentando {
+  color: rgb(0, 0, 0);
+  
+}
+.Arrumando {
+    margin-right: 700px;
+}
+.Ajeitando {
+  margin-right: 400px;
+  margin-top: -147px;
+  margin-left: 50px;
+}
+.Organizando {
+  margin-top: -147px;
+  margin-left: 100px;
+}
+.Dandosequência {
+   margin-left: 600px;
+   margin-top: -147PX;
+}
+.Dandoumjeito {
+
+}
